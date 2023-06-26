@@ -1,0 +1,368 @@
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.AssemblyReference.cache
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfoInputs.cache
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfo.cs
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.json
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.exe
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.deps.json
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.runtimeconfig.json
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Humanizer.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySql.Data.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\ZstdNet.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySqlConnector.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\scopedcss\bundle\AgendaPark-Backend.styles.css
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CopyComplete
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\ref\AgendaPark-Backend.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.exe
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.deps.json
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.runtimeconfig.json
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\scopedcss\bundle\AgendaPark-Backend.styles.css
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\refint\AgendaPark-Backend.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\ref\AgendaPark-Backend.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\refint\AgendaPark-Backend.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\scopedcss\bundle\AgendaPark-Backend.styles.css
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\refint\AgendaPark-Backend.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Project\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\ref\AgendaPark-Backend.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MailKit.dll
+C:\Desenvolvimento\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MimeKit.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.json
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.exe
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.deps.json
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.runtimeconfig.json
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Humanizer.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MailKit.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MimeKit.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySql.Data.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\ZstdNet.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySqlConnector.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.AssemblyReference.cache
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfoInputs.cache
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfo.cs
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\scopedcss\bundle\AgendaPark-Backend.styles.css
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CopyComplete
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\refint\AgendaPark-Backend.dll
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.genruntimeconfig.cache
+C:\Desenvolvimento\AgendaPark\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\ref\AgendaPark-Backend.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\appsettings.json
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.exe
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.deps.json
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.runtimeconfig.json
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MailKit.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MimeKit.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.AssemblyReference.cache
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfoInputs.cache
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.AssemblyInfo.cs
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CoreCompileInputs.cache
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\scopedcss\bundle\AgendaPark-Backend.styles.css
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.csproj.CopyComplete
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\refint\AgendaPark-Backend.dll
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.pdb
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\AgendaPark-Backend.genruntimeconfig.cache
+C:\Users\GustavoHenriqueFulbe\Documents\AgendaPark-Backend\AgendaPark-Backend\obj\Debug\net6.0\ref\AgendaPark-Backend.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MailKit.dll
+C:\Users\USUARIO\Desktop\agendapark 2022\AgendaPark-Backend\AgendaPark-Backend\bin\Debug\net6.0\MimeKit.dll
